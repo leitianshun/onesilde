@@ -1,2 +1,2 @@
 # onesildes
-自动生成PPT
+[预览链接](https://leitianshun.github.io/onesildes/oneslide/demo.html#/)
