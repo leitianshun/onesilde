@@ -171,9 +171,7 @@ const Editor = {
     this.$editInput = $('.editor textarea')
     this.$saveBtn = $('.editor .button-save')
     this.$slideContainer = $('.slides')
-    this.markdown = localStorage.markdown || `# one slide 
-    ##现在让我们点击左上角开始吧
-    `
+    this.markdown = localStorage.markdown || `# one slide `
 
     this.bind()
     this.start()
